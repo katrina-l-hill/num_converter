@@ -1,9 +1,9 @@
-# Base Number Converter
+# Multi-Base Numerical Converter
 
 ## Author: Katrina Hill
 
 ## Description
-The Base Number Converter is a Python program that allows users to convert numbers between various bases, specifically binary (base 2), octal (base 8), decimal (base 10), and hexadecimal (base 16). The program prompts the user for a number and its base, then converts it to a specified target base.
+The Multi-Base Numerical Converter is a Python program that allows users to convert numbers between various bases, specifically binary (base 2), octal (base 8), decimal (base 10), and hexadecimal (base 16). The program prompts the user for a number and its base, then converts it to a specified target base.
 
 ## Features
 - Convert numbers between base 2, base 8, base 10, and base 16.
@@ -19,7 +19,6 @@ The Base Number Converter is a Python program that allows users to convert numbe
 
 ## How to Run
 1. **Clone the repository** (or download the files):
-   - ```bash
    - git clone https://github.com/katrina-l-hill/num_converter.git
    - cd into the repository directory
 2. **Run the Main program**:
